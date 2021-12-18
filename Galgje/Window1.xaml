@@ -1,0 +1,22 @@
+﻿<Window x:Class="Galgje.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Galgje"
+        mc:Ignorable="d"
+        Title="Window1" Height="260.59" Width="510.952">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Raad het woord" VerticalAlignment="Top" Margin="34,26,0,0" Width="88" Height="26"/>
+        <Button Content="Raad" HorizontalAlignment="Left" Margin="238,26,0,0" VerticalAlignment="Top" Width="75" Background="{x:Null}" BorderBrush="Black" Height="23" Click="Button_Click"/>
+        <Button Content="Stop" HorizontalAlignment="Left" Margin="238,76,0,0" VerticalAlignment="Top" Width="75" Height="23" BorderBrush="White" Background="{DynamicResource {x:Static SystemColors.MenuBarBrushKey}}" Click="Button_Click_1"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="34,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="279" Name="textraadletter"/>
+        <TextBlock HorizontalAlignment="Left" Margin="34,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" Height="29" Name="textgeradenletters"/>
+        <Image Name="GameImage" 
+               HorizontalAlignment="Left" Height="163" Margin="324,10,0,0" VerticalAlignment="Top" Width="164"/>
+        <TextBlock HorizontalAlignment="Left" Margin="34,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="98" Height="26" x:Name="textlevens"><Run Text="10"/><Run Text=" levens"/></TextBlock>
+        <Label Name="LblTijd" Content="" HorizontalAlignment="Left" Margin="34,156,0,0" VerticalAlignment="Top" Width="245"/>
+
+
+    </Grid>
+</Window>
