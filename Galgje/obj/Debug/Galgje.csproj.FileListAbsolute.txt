@@ -1,0 +1,17 @@
+C:\Users\kenzo\source\repos\Galgje\bin\Debug\Galgje.exe.config
+C:\Users\kenzo\source\repos\Galgje\bin\Debug\Galgje.exe
+C:\Users\kenzo\source\repos\Galgje\bin\Debug\Galgje.pdb
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\MainWindow.g.cs
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Window1.g.cs
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\App.g.cs
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Galgje_MarkupCompile.cache
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Galgje_MarkupCompile.lref
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\MainWindow.baml
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Window1.baml
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Galgje.g.resources
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Galgje.Properties.Resources.resources
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Galgje.csproj.GenerateResource.cache
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Galgje.csproj.CoreCompileInputs.cache
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Galgje.exe
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Galgje.pdb
+C:\Users\kenzo\source\repos\Galgje\obj\Debug\Galgje.csproj.AssemblyReference.cache
